@@ -3,6 +3,12 @@
 
 [Nest](https://github.com/nestjs/nest) framework based backend to handle task creation, updation and deletion by the task-herald web application.
 
+## Pre-requisites
+
+- Running instance of MongoDB
+- Git
+- Yarn
+
 ## Installation
 
 After cloning the repository, run the following command to set up the task-manager.
