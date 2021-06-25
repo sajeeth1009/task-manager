@@ -5,7 +5,6 @@ import {
   Body,
   Param,
   Delete,
-  Put,
   Patch,
 } from '@nestjs/common';
 import { TaskService } from './tasks.service';
